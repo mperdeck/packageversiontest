@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!--<PackageReference Include="ClassLibrary1" Version="1.*" />-->
     <PackageReference Include="ClassLibrary1_2" Version="1.*" />
   </ItemGroup>
 </Project>
